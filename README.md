@@ -3,7 +3,7 @@ lein-test-out is a leiningen plugin that runs all your tests and outputs to a fi
 Installation
 ============
 
-```:plugins [[lein-test-out "0.3.1"]]```
+```:plugins [[org.clojars.oliyh/lein-test-out "0.3.2"]]
 
 Usage
 =====
